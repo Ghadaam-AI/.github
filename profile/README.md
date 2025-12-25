@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8a31516b-5a38-4339-8449-adf2899570f8" alt="Ghadaam Banner" width="120"/>
+  <img src="https://github.com/user-attachments/assets/8a31516b-5a38-4339-8449-adf2899570f8" alt="Ghadaam Banner"/>
   
   # Ghadaam Platform Features
   
