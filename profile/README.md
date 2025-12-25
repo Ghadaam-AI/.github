@@ -7,7 +7,7 @@
   
   The complete platform for modern web development.
 
-  [![Deploy](https://img.shields.io/badge/Deploy-Now-black?style=for-the-badge)](https://vercel.com)
+  [![Deploy](https://img.shields.io/badge/Deploy-Now-black?style=for-the-badge)](https://dev.ghadaam.ir)
   [![Docs](https://img.shields.io/badge/Docs-Read-blue?style=for-the-badge)](https://vercel.com/docs)
 </div>
 
