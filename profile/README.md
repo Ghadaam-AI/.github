@@ -54,5 +54,3 @@
 - Web Vitals tracking (LCP, FID, CLS)
 - Error tracking and logging
 - Speed Insights for performance optimization
-
----
